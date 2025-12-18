@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <table>
+        <form>
+            <tr>
+                <td>Name:</td> <td><input type="text"placeholder="Name"></td>
+            </tr>
+        </form>
+    </table>
+</html>
+
+
